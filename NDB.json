@@ -1,0 +1,82 @@
+[
+  {
+    "title": "stainless thermos 1",
+    "img": "https://i.ibb.co/FM02bfD/t12.jpg",
+    "category": "thermos",
+    "price": 1100
+  },
+  {
+    "title": "stainless thermos 2",
+    "img": "https://i.ibb.co/KxrsxJQH/t3.jpg",
+    "category": "thermos",
+    "price": 600,
+    "discount": 20
+  },
+  {
+    "title": "stainless thermos 3",
+    "img": "https://i.ibb.co/V0spY3s0/t4.jpg",
+    "category": "thermos",
+    "price": 900
+  },
+  {
+    "title": "stainless thermos 4",
+    "img": "https://i.ibb.co/m5m9yvRF/t1.jpg",
+    "category": "thermos",
+    "price": 1050,
+    "discount": 20
+  },
+  {
+    "title": "Plastic bottle 1",
+    "img": "https://i.ibb.co/vyknb0J/IMG-20250226-WA0048.jpg",
+    "category": "bottle",
+    "price": 2500,
+    "discount": 20
+  },
+  {
+    "title": "Plastic bottle 2",
+    "img": "https://i.ibb.co/spqJrxTj/IMG-20250226-WA0045.jpg",
+    "category": "bottle",
+    "price": 300
+  },
+  {
+    "title": "Plastic bottle 3",
+    "img": "https://i.ibb.co/JjTY40jQ/b2.jpg",
+    "category": "bottle",
+    "price": 300,
+    "discount": 20
+  },
+  {
+    "title": "Plastic bottle 4",
+    "img": "https://i.ibb.co/PsGbJ9kD/b5.jpg",
+    "category": "bottle",
+    "price": 300,
+    "discount": 23
+  },
+  {
+    "title": "milk frother",
+    "img": "https://i.ibb.co/YB8989gH/o2.jpg",
+    "category": "others",
+    "price": 1200,
+    "discount": 20
+  },
+  {
+    "title": "hanger",
+    "img": "https://i.ibb.co/Q32Htgjp/o6.jpg",
+    "category": "others",
+    "price": 400
+  },
+  {
+    "title": "holder",
+    "img": "https://i.ibb.co/N2Mbcyd3/o3.jpg",
+    "category": "others",
+    "price": 200,
+    "discount": 20
+  },
+  {
+    "title": "milk frother 2",
+    "img": "https://i.ibb.co/DPFs5MMK/IMG-20250226-WA0043.jpg",
+    "category": "others",
+    "price": 1200,
+    "discount": 10
+  }
+]
